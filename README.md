@@ -12,3 +12,4 @@
  Nama                        | Sekolah                    | Kelas
  :-------------------------- | :------------------------: | :----------:
  Aditia Bayu Atmaza Syaputra | SMK IT AL-MA'MUN Limbangan | XII
+ Riki Muhammad | SMK BHAKTI PUTRA | XI
